@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi I’m Vaidehi
 
-<!--
-**vaidehi-builds/vaidehi-builds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student  
+💻 Building strong programming fundamentals through coursework and labs  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech
+- **Languages:** C, Java, Python
+- **Tools:** Git, GitHub, Windows
+
+---
+
+## 🧠 Core Areas
+- Programming Fundamentals
+- Problem Solving
+- Basic Data Structures
+- Operating Systems (basics)
+
+---
+
+## 📂 Repositories
+- **College Lab Programs** – structured lab work from coursework  
+- **Practice Code** – small programs for improving code clarity and efficiency  
+
+---
+
+⭐ This profile documents my learning and growth as a programmer.
